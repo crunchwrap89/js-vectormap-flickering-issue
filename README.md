@@ -9,6 +9,11 @@ This application is made to reproduce a render issue with google maps JS Vector 
 npm install
 ```
 
+## Add API Key
+```
+add apiKey in mapConfig.ts -> apiKey
+```
+
 ### Compile and Hot-Reload for Development
 
 ```sh
