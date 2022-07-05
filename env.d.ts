@@ -20,5 +20,6 @@ declare module "*.vue" {
     mapIds: string[];
     region: string;
     language: string;
+    version: string;
   };
   

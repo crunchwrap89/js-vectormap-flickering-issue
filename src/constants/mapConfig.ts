@@ -1,10 +1,11 @@
 const initialZoom = 18;
 
 export const API_SETTINGS: APITYPE = {
-  apiKey: "add_API_Key_here",
+  apiKey: "AIzaSyA6oWKb68bZZGsSCDQFLe9x0YRKEAxPhTM",
   mapIds: ["1ff166c90cc8691d", "5e99dea3f92c1f0d", "b7afcb8be0f9883"],
   region: "US",
   language: "EN",
+  version: "weekly"
 };
 
 export const MAP_SETTINGS = {
